@@ -21,7 +21,7 @@ fill_mask = pipeline(
 )
 
 # Call fill_mask() on a Kikuyu string where one word has been replaced with <mask> as below.
-result = fill_mask("Thabuni ugĩthodekwo wĩ muigĩ <mask> tani igana ĩmwe kana makĩria űthondekagwo na macini.")
+result = fill_mask("Ndemokirathĩ nĩ kuga thirikari ya <mask> ĩthondeketwo nĩ andũ nĩ ũndũ wa andũ.")
 
 tokenizer = ByteLevelBPETokenizer(
     f"{tokenizer_name}/vocab.json",
