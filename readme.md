@@ -3,7 +3,7 @@
 ## Implemented Language Models
 
 1. Kikuyu
-   - [x] Baseline (Download)
+   - [x] Baseline ([Download](https://drive.google.com/open?id=1kDCGnuVAtLFe-HDjMgO7SRPSdErtcjNN))
 
 ### Setup
 
