@@ -1,0 +1,12 @@
+Injiniarini
+Injiniarini ni mathomo makoragwo na maugi maingi ta ma erektroniki, thitima, mekaniko, mithaiga, waki, betoro na mangi maingi.
+Omũthenya mũndũ ni atũmagira ĩndo ithondeketwo na ũgĩ wa Injiniarini. andu angi mokira nimaturagira gasi cũka kana thitovu kuruga ici ni itumagira ugi wa mekaniko na thayathi ya ũthagia. Maguta matawa na gasi ithondekagwo na ũgĩ wa injiniarini ya mĩthaiga. thitovu na gasi cũka ithodekagwo na ũgĩ wa na macini cia injiriani ya mekaniko.
+Injiniarini itumagira ũgĩ na umenyo wa thayathi, ũcuumi, social ni getha gukurura na gwaka macini, thithitemu na material [[1]]. Injiniarini ithondekaga macini iria ari tekinoronji.Tekinoronjĩ ĩthondekagwo na ũgĩ wa thayathi [[2]]. Injiniarini ithondekaga macini cia kwendio na kũogwo ũgĩ wa ũcuumi ni wedekanaga ni getha guthondeka macini ikwendeka.
+Maũgĩ mothe ma injiriaini makoragwo makirumira stagi ici guthondeka kindu: ũthuthuria wa thithitemu, gũkurura thithitemu na gwaka kwa thithitemu.
+kwi buremuwaki cia ki thiori thondeka. Buremuwaki imwe ya muthemba banga thiori rainina kuma iria cia njumura ngiya ira iundu nyene[3].
+Thiori njumura <------------------------------------------------------> thiori cia iundu nyene.
+Thiori cia njumura nicio itumagigirwo gwaka thiori cia iundu nyene. Thiori ya njumura yeretha maundu maingi kwi thiori ya iundu nyene.
+
+1. Engineering http://en.wikipedia.org/wiki/Engineering gūthomwo 31/5/2012
+2. Thayathi na tekinonji http://ki.wikipedia.org/wiki/Thayathi_na_teknoloji gūthomwo 25/5/2012
+3. Jacobson na edersen, Injiniarini thayathi na kiihari 2003

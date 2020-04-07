@@ -1,0 +1,14 @@
+Thiomi cia kũmaaka mathangu
+Ici nĩ thiomi cia kũmaaka mathangũ mũno ma rurenda nĩgetha magĩe na riri wa kũgucĩrĩria maitho na gũthomeka. Thiomi cia kũmaaka mathangu kaingĩ ikoragwo na karakita kũmaaka karakita kangĩ gatahana kwambiriria ga kũmaaka mũisho.
+HTML - Rũthiomi rwa kũmaaka mandĩko mareri
+HTML nĩ rũthiomi ruria rutamgĩrwo mũno kũmaaka mathangu wa rurenda, rugacokererwo ni XML.
+
+Rũthiomi rwa kũmaka Wikipedia
+Wikipedia ndĩtũmagira HTML no itũmgira ruthiomi rwa kũmaaka wikipedia.
+== mbere na mwisho wa hediini
+Guthoma makiria ruthiomi rwa wikipedia na Gĩthũngũ [1]. Ibuku ria ruthiomi rwa wikipedia nithomekaga buku cia Google ritagwo manual iria nyagikanite [2]
+Kugwete
+
+Wikipedia. Wiki Markup 2012[[1]]
+2. Broughton J. Wikipedia manual Ĩria nyangĩkanite ,Oreilla Media, 20008
+3. Wikipedia, Wikipedia Tutorial Editing [[2]]

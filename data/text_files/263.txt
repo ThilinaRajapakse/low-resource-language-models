@@ -1,0 +1,15 @@
+Bayo-egekia (Biomimicry, Bionics)
+Nĩ gũkobia bayorojĩ ũgithondeka mwabĩririo wa Kindũ. Bayo-egekia nĩkoretwo ĩgĩthiĩ na mbere gũtũmĩrwo makĩria nĩ maũgĩ ma mithemba mĩigĩ. ũũgi mũigĩ ũthondekagwo na kũhuninia kindũ kĩũkaine wega na kĩngi gĩtoĩkaine wega.
+
+Nyũmba ya mũgĩkũyũ nĩ gerekano njega ya Bayo-egekia tondũ ĩkoragwo na gĩthiũrũrũko ta gĩtingi kĩa mũti kĩgĩrĩirwo kĩogoro kia irigũ.
+
+Hithitori ya waki wa Nyũmba ya mũgikũyũ
+kurigana na hithitori mwakire wa nyumba ni ũkoretwo ũgĩ cenjia[1]:
+1. Kiambiririe Nyũmba ya ruthuago
+2. ĩkĩrũmĩrĩrwo nĩ Nyũmba ya mĩhirigo
+3. Nyũmba ya ndoro mũico
+Nyũmba iria ciĩ kwo rĩu nĩ cia mbaũ na Mahinga.
+Kombuita thayathi onayo nĩ ĩtumagira bayo-egekia thĩinia wa wira wayo ta: neural netiwaki na Cellular automata (njĩkĩiki ya cerorũra). Tekinorojĩ ici igĩrĩ ĩtumagirwo gũthondeka hardware na software.
+
+
+1. Anyamba T. Adebayo A. Traditional Architecture, Jomo Kenyatta Foundation 1993.

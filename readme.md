@@ -4,6 +4,7 @@
 
 1. Kikuyu
    - [x] Baseline ([Download](https://drive.google.com/open?id=1kDCGnuVAtLFe-HDjMgO7SRPSdErtcjNN))
+   - [x] Baseline data + Bible Text ([Download](https://drive.google.com/open?id=1fuBEiT2pPOHTMilcNtY6a90NVfCvss0S))
 
 ### Setup
 

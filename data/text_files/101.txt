@@ -1,0 +1,4 @@
+RFID
+RFID nĩ Radio Frequency Identification kana na Gikuyu Rĩdio ũcokeri Njitaburishe.
+RFID ihana ũtagathi wa kameme, no mũndũ akoragwo na thiteceni ya gũtagatha mũhuko na thomi(ira yoyaga sigino ikagirwo handu ikuhota guthoma sigino iria iramu thiteceni ya RFID)
+GPS

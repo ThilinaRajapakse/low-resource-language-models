@@ -1,0 +1,6 @@
+Cipiyu
+Kagera ga Komputa kana thimu ya mobailo kari karutaga wira wa kugarura umo ũgatwika ũhoro.
+Handiwea ya Cipiyu
+Cipiyu ikoragwo na Arithmetic Logic unit, Control unit na regista.
+Cipiyu ithondekagwo na Njaacu cia kinyamu gitagwo siliconi. Njaacu ino ni ikiragwo millioni cia trasista(Cipiyu cia komputa cia thiku ici).
+Kambuni ithondekaga Cipiyu cia PC: Intel, AMD, Cyrix

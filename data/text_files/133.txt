@@ -1,0 +1,12 @@
+Ronjiki ihuthikaga kurepresenti norenji ya macini.
+Kwĩ ronjiki mithemba mĩngĩ ta:
+1. Boolean Logic
+kuga niguo kana tiguo
+2. Proposition Logic
+uria indo ciitainwo. kwa muhiano. Kamau e mbere ya njeri
+Ihuthagira alama cia conjuction (and) na disjuction (0r)
+3. Predicate Logic
+Ronjiki ino ituraninagira indo ciothe cia seti furani. Kwa muhiano Ngui ciothe cii maguru mana
+ihuthagira arama cia existential na universal
+4. Fuzzy Logic
+Ino ni ronjiki ya kunina uncertainities thinii wa norenji

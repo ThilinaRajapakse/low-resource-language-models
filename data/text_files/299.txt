@@ -1,0 +1,10 @@
+Kĩambĩrĩria
+Mathomo ma Kombuita thayathi ota thayathi iria igĩ ithomagwo ūhoro wa ciumo cia iyūndu (phenomena) iria itūma Kombuita irute wĩra. Nĩcio mūthigi wa tekinoronjĩ iria ihana cĩega cia Kombuita. Kombuita ikoragwo na tekinoronjĩ igiri : sofutiwea na Handiwea.
+Software ni watho uria kombuita irumagirira.Hardware ni indo cia mekanikal, electronic na tekinoroji ta ĩcio ĩria ituma software irute wira.
+Hithitorĩ ya Kombuita
+Ni andu angĩ marutire wĩra ma guthondeka kihumo gia Kombuita. Charles Barbage gutuika niwe ithe wa Kombuita, kana ni wira wake kihumo ya Kombuita[1]. Charles barbage ni athodekire Kombuita yari electro-mechanikal.
+Hithitori mathomo ma Kombuita thayathi
+kothi cia Komputa thayathi nĩ:
+9. Űtara wa sofutiwea 10. Űtara wa data 11. computation theory 12. Object oriented Design
+Ona Mathomo makonia kombuita
+references

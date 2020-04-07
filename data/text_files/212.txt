@@ -1,0 +1,6 @@
+Wikimedia
+Wikimedia ni muthemba wa tekinoronji cia wiki. Wiki itumagirwo ni andu aingĩ kwandĩka űhoro. Ritwa wiki riűmĩte kwĩ wiki-wiki ritwa ritumagirwo Hawaii na rĩ manishaga na ĩhenya [1].
+Wikimedia ikoragwo na wandiki wa mithemba miangi ta:
+Wikimedia ni itumagira sofutiwea iria hingure Kihumo na nĩcio umobasi(databasi) ya mysql na ruthiomi rwa komputa script rwĩtagwo PHP.
+Kugwete 1. Parker na Chao, Wiki ni muro wa guthomithia, Njaranda ya ugi, indo cia kwiruta cia kimaugĩ manja 7/3 .
+Draft versionMawatho na mitaratara ya gũtũmira wikipedia

@@ -1,0 +1,87 @@
+MŨTHARIT
+MŨNUNGA
+MAIGOYA, MATHAKWA
+IRIGŨ,BANANA
+MŨCHAKARANDA. JACARANDA
+MŨKŨRWE
+MŨNYAMATĨ
+Gacuki Ocimum kilimandscharicum Guaerke Lamiaceae (African blue basil)
+Gakuinini, Schkuhria pinnata (Lam.) Thell., Asteraceae (Schkuhria)
+Gakungui, Cucumis aculeatus Cogn., Cucurbitaceae
+Hondo, Passiflora ligularis A.Juss., Passifloraceae (Passiflora ligularis)
+Ihindu, Ensete ventricosum (Welw.) Cheesman, Musaceae (Ensete ventricosum)
+Kaiyaba, Dovyalis caffra (Hook. F. & Herv.) Warb, Salicaceae (Dovyalis caffra)
+Karĩrĩa, Euphorbia tirucalli L., Euphorbiaceae (Euphorbia tirucalli)
+Kĩiruma, Aloe lateritia Engl., Liliaceae
+Kererwa, Croton dichogamus Pax, Euphorbiaceae
+Mahuithia, Kalanchoe lanceolata (Forsk.) Pers., Crassulaceae (Kalanchoe)
+Maruru, Tithonia diversifolia (Hemsl.) Gray, Asteraceae (Tithonia diversifolia)
+Mũba, Pappea capensis (Spreng) Eckl. & Zeyh., Sapidiaceae (Pappea)
+Mucibau, Eucalyptus globulus Labil., Myrtaceae (Eucalyptus globulus)
+Moo, Sambucus nigra L., Adoxaceae (Sambucus nigra)
+Mũbuthi/mũcuthi, Caesalpinia volkensii Harms, Caesalpiniaceae
+Mucingiri, Calpurnia aurea (Ait.) Benth., Fabaceae (Calpurnia aurea)
+Mũcugu, Cajanus cajan Millsp., Papilionaceae (Pigeon pea)
+Mũgucwa, Zanthoxylum usambarense (Engl.) Kokwaro, Rutaceae
+Mũgukuma, Keetia gueinzii (Sond.) Bridson, Rubiaceae (Keetia gueinzii)
+Mũgwanugu, Aloe kedongensis Reynolds, Liliaceae
+Mũhindahindi, Trimeria grandifolia (Hochst.) Warb., Salicaceae
+Mũhũha, Pentas longiflora Oliv., Rubiaceae
+Mũhuti, Erythrina abyssinica DC, Papilionaceae (Erythrina abyssinica)
+Mũimbathunu, Periploca linearifolia Dill. & A. Rich., Asclepiadaceae
+Mũiri, Prunus africana (Hook. f.) Kalkm., Rosaceae (Prunus africana)
+Mũkahua, Coffea arabica L., Rubiaceae (Coffea arabica)
+Mũkambura, Dovyalis abyssinica A. Rich, Salicaceae
+Mũkaragati, Fagaropsis angolensis (Engl.) Dale, Rutaceae
+Mũkarakinga, Rhamnus prinoides L. He'rit, Rhamnaceae (Rhamnus prinoides)
+Mũkawa, Carissa spinarum (Forssk.)Vahl, Apocynaceae (Carissa spinarum)
+Mũkenera, Zanthoxylum chalybeum Engl., Rutaceae
+Mũkenia, Lantana camara L., Verbenaceae (Lantana camara)
+Mũkima , "Grevillea robusta"
+Mũtundu-wa-njora, Croton macrostachyus Hochst. ex Delile, Euphorbiaceae
+Mũkinduri, Croton megalocarpus Del., Euphorbiaceae
+Mũkoe
+Mũkoigo, "Bridelia micrantha"
+Mũkungugu, Commiphora eminii Engl., Burseraceae
+Mũkuriahungu, Ekebergia capensis Sparrm., Meliaceae (Ekebergia capensis)
+Mũkũyũ, Ficus sycomorus
+Mũnderendu, Teclea simplicifolia (Engl.) Verdoorn, Rutaceae
+Mũnjuga Iria, Rotheca myricoides (Hochst.) Steane & Mabb., Verbenaceae (Rotheca myricoides)
+Mũnyamati, Pittosporum lanatum Hutch. & Bruce, Pittosporaceae
+Mũrema, Bauhinia tomentosa L., Fabaceae
+Mũrema-mũthua, Dodonaea angustifolia L. f., Sapindaceae (Dodonaea angustifolia)
+Mũrera, Acacia xanthophloea Benth., Fabaceae (Acacia xanthophloea)
+Mũringa, Cordia africana Lam., Boraginaceae (Cordia africana)
+Mũroha, Cussonia holstiiHarms ex Engl., Araliaceae
+Mũrumbae, Withania somnifera (L.) Dunal, Solanaceae (Withania somnifera)
+Mũrurue, Toddalia asiatica (L.) Lam., Rutaceae, (Toddalia)
+Mũtamaiyu, Olea europaea L., Oleaceae (Olive)
+Mũtambi, Cyphostemma maranguense (Gilg) Desc., Vitaceae
+Mũteta, Strychnos henningsii Gilg, Loganiaceae
+Mũthaiti, Ocotea usambarensis Engl., Lauraceae (Ocotea usambarensis)
+Mũthanduku, wattle,"Acacia mearnsii"
+Mũthathi, Cassipourea malosana (Bak.) Alston, Rhizophoraceae
+Mũthiga, Warburgia ugandensis Sprague, Canellaceae (Warburgia ugandensis)
+Mũthigio
+Mũthigira, Hydnora abyssinica Schweinf., Hydnoraceae
+Mũthigiu, Rhus natalensis Krauss, Anacardiaceae
+Mũthima mbũri, Clutia abyssinica Jaub. & Spach, Euphorbiaceae
+Mũthithii, Osyris lanceolata Hochst. & Steudel, Santalaceae (Osyris lanceolata)
+Mũthithinda, Cypress,"Cupressus lustanica"
+Mũthiti
+Mũthura, Rhus vulgaris Meikle, Anacardiaceae
+Mũthuthi, Gymnosporia senegalensis (Lam.) Loes., Celastraceae
+Mũtimu, Citrus aurantiifolia (Christm.) Swingle, Rutaceae (Key lime)
+Mũtoo, Thespesia garckeana F.Hoffm. (Exell & Hillc.), Malvaceae (Thespesia garckeana)
+Mũtundu, Croton sylvaticus Hochst. ex C.Krauss, Euphorbiaceae
+Mũtura, Solanum aculeastrum Dunal, Solanaceae (Solanum aculeastrum)
+Mwaritha, Dalbergia lactea Vatke, Papilionaceae
+Mwarubaine, Azadirachta indica A.Juss., Meliaceae (Azadirachta indica)
+Mwethia, Calpurnia aurea (Ait.) Benth., Fabaceae (Calpurnia aurea)
+Mwikunya, Scutia myrtina (Burm.f.) Harms, Rhamnaceae
+Mwinu, Senna didymobotrya (Fresen.) Irwin & Barneby, Caesalpinaceae (Senna didymobotrya)
+Ndurutua, Rhoicissus tridentata (L.f.) Wild & Drummond, Vitaceae
+Ngukura, Rhamnus staddo A. Rich, Rhamnaceae
+Rũithiki, Lantana camara L., Verbenaceae (Lantana camara)
+Thabai, Urtica massaica Mildbr., Urticaceae
+Wanjirũ, Ajuga remota Benth, Lamiaceae

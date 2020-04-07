@@ -1,0 +1,5 @@
+Thiori ya Seti
+Matemo
+Thiori ya Seti nĩ thiori ĩmwe ya iria cia mũthingi cia mathabu. Seti nĩ kiũmba kĩa indo itarĩ na mũbango. seti ciandikagwo na ngũthiũrũrũkĩrio na karakita ya { na kũrikia na karakita }. indo thiini wa seti itigithanigio na karakita ya , .
+Ngerekano cia seti nĩ {ngombe, mburi, hiti, nyoni}, {40,50,90,20}. indo iria cithainĩ wa seti cĩatagwo erementi. Seti tondũ nĩ kiũmba kĩna erementi itari bange kiũmba kina indo imwe ni seti imwe. kwoguo {ngombe, hiti,mburi, nyoni}, {ngombe, mburi, hiti, nyoni}, {mburi,ngombe, hiti, nyoni} ni seti imwe.
+Indo ingĩ bangwo irũmanĩrĩre cĩtagwo kĩmũmanĩririo kana sequence na Gĩthũngu.

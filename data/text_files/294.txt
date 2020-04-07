@@ -1,0 +1,11 @@
+Robots
+Robot nĩ macini ĩhana ta nyamu kwogũo no cĩtwo njĩkimu na ritwa rĩngi. Robot ni mũthemba wa macini cihotaga guthiĩ kuma handũ hamwe gūthiĩ handū hangĩ.
+Robot itumagirwo iwanda mitamboinĩ ya ngũturari indo ta Komputa na ngari. Kwĩ robot mithemba itatu:
+Nĩ kũrĩ robot ciagũtũmirwo iwandaini na ingĩ cia mawĩra mangĩ ta cia kũhũra mũbira.
+Mabururi marĩa matumagĩra robot mũno iwandainĩ nĩ Japan na United States.
+Athondeki a robot makoragwo arĩ: Mekaniko injinia, Akururi(Designers) a sofutiwea na mekaniko. mbere ya sofutiwea cia robot ciandĩkwo ngorithimu (Algorithm) ni cikururagwo.
+
+Ngerekano ya ngorithimu ya Robot
+Ngorithimu ya kuruta wira obici irahota kuona.
+1. Rora njira kana he kindu 2. okorũo he kindu okorũo ni mundu
+3. okorũo kindu okorũo ti mundu, eheria kindu kiu.

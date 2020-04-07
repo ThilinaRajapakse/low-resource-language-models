@@ -1,0 +1,6 @@
+Digital Electronics
+Digital Electronics ni Digito Erektroniki. Erektroniki muthemba ũyũ itumaga sigino itigithũkanĩte.
+Sabujekiti ithomagwo Digito Erektroniki
+Boolean Logic - Boolean Rogiki. Ritwa Boolean ni ritwa ria mundu uria wa thondekire rogiki muthemba ûyũ.
+Gates - ihigo - circuit (gĩthungu) cia Digito Erektroniki ithondekagwo na ihigo mithemba ta itatadatu ta Kĩhigo Na, Kĩhigo Kana,Kĩhigo Nor.
+Mathomo ma kombuita thayathi

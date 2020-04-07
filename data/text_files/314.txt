@@ -1,0 +1,25 @@
+Matemo
+kwĩ tekinorojĩ nyingĩ itũmagĩrwo nĩ andũ ta kameme, terebiceni, thimũ, ngari, komputa na netiwaki. Tekinorojĩ ĩtumaga wira ũhuthe. Teknoloji ĩtumarigira ũũgĩ wa thayathi gũthodeka macini na indo iria ĩtumagirwo kũruta wira.
+Thayathi
+ũũgĩ wa thayathi ũmancte na ũtuĩria ũria ũkoretwo ugĩkwo ni andu miaka mĩigĩ mĩhĩtũku. Mathomo ma thayathi ni ta mathabu, kemu, bayorojĩ, ũramati ũũgĩ (knowledge management), injiniarini (engineering) na kombuita(Computer).
+Kameme
+kameme ni mũthemba wa macini iria itũmagira huho cia heni kana thitima.Heni ici cĩumaga thiteceni ya gũtagatha igathia nginya igakinya tũmemeini.
+Macindano ma Tekinoronjĩ
+Teknorojĩ ĩria ĩrutaga wira ũmwe kana ũkũhanĩrĩrie nĩ icindanaga. Tekinoronjĩ ĩria ya Cinda nĩ ĩtũmagirwo mũno nĩ andũ tondũ wa mawega maingi mayao, kũrĩiria cĩa cidwo.
+Gerekano ya macindano ma tekinorojĩ nĩ digital ĩrĩa ĩcidĩate ya Analogu. Ni ũndũ wa Tekinoronjĩ gũcindana nĩ kũrĩ marika ma Teknoroji, ta netiwaki ya thimũ cia mobailo nĩ kũri rika rĩambere (1G), rĩa kerĩ (2G), rĩa gatatũ(3G) na rĩa Kana(4G).
+Tekinoronjĩ Njeru
+Tekinoronjĩ njeru ikoragwo na ngoro tondũ andũ matikoragwo mamenyete wega ngũcithondeka, na nĩ mendaga gũcokia mbia ira matũmire ũtuĩriani na ũthondeki.
+Muthiore wa S
+Tekinoronjĩ ya mũkaano yarĩkia gűthugudwo nyagĩrĩra ĩrűmĩrira műthiore űkuhĩrĩrie ndemwa ya S. Kiambiria Tekinoronjĩ ĩkűraga kahora, ĩgacoka ĩgakűra na ihenya műno, műiconi ĩgacoka ikajia gűkűra kahora. Gűkűra gwa Tekinoronjĩ nĩ kũga nĩ ĩrathia na mbere kwagĩrira.
+Ciambĩki paradigm cia Tekinoronjĩ
+Dosi nĩ athondekire ũhoro wa Ciambiki cia Tekinoronjĩ agĩtumira ngerekano ya Ciambĩki cia thayathi. Aũgire Ciambĩki cia Tekinoronjĩ nĩ mũrorore wa kuma na nja ma mathĩna marĩa methagirwo anja nĩgetha Tekinoronjĩ ĩthondekwo, na mũhianano kana pattern ĩria ĩtũmagĩrwo kũria ciũria nĩngetha anja cia mathĩna maya cionekane[1].
+Andu kana kambuni ikiruta gũthondeka Tekinoronjĩ ni merutaga ũhoro wa kiambiki gia Tekinoronjĩ ira marenda gũthondeka.
+Ũguũki wa Tekinoronjĩ
+Ũguũki ũtũmagĩrwo kuonania ũrĩa tekinoronjĩ ĩgũthia na mbere na gũkura kana kwagĩrĩra oũrĩa kahinda karathie na mbere. kwĩ mitaratara mĩangi ĩtũmigirwo gwĩka ũthuthuria ũyũ. Mũtaratara ũmwe ũthondeketwo mũthingiinĩ wa műkinyaniria wa Porter(Mahinya matano ma Porter) ũkoragwo na framewaki ya ũgangarũki tekiniko, thithitemu thiori, na grafu ĩna ndaĩmensoni cia mũnyororo wa kiene na tekinoronjĩ mwanya mwanya [2]. Mũtaratara ũyũ ũtũmagirwo gũthondeka mapu ya bara ya kũĩgereria ũria Tekinoronjĩ ĩgĩkũra. Kwĩ ũguũki wa tekinoronjĩ na wa ũguũki wa Biacara
+Kambuni kana mundu kugia na tekinoronjĩ njeru
+Kambuni kana mundu angienda tekinoronjĩ njeru akoragũo na njira ithatu cia guika uguo: Kũhamia tekinoronjĩ, kwigerenia na aria moĩ guthondeka tekinoronjĩ kana gutumira inovacioni.
+
+Kuria kugwete
+1. Dosi G. Techinoronji paradigms and Tranjectories(Ciambĩki cia Tekinoronjĩ na njigerere), mwerekere wa ũtuĩria, 1982
+2. Schuh, Ũguũki wa Tekinoronjĩ wegemeire TRIZ
+3. Nakamura Y. Gũtukania ARIZ92 na mwikire wa NM mathina ma revo ya ithano

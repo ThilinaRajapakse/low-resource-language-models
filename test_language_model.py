@@ -8,14 +8,12 @@ logging.basicConfig(level=logging.INFO)
 transformers_logger = logging.getLogger("transformers")
 transformers_logger.setLevel(logging.ERROR)
 
-model_name = "models/kikuyu_baseline"
-tokenizer_name = "models/kikuyu_baseline"
+model_name = "models/kikuyu_with_bible"
+tokenizer_name = "models/kikuyu_with_bible"
 
 
 fill_mask = pipeline(
     "fill-mask",
-    # model="outputs/best_model",
-    # tokenizer="outputs/best_model",
     model=model_name,
     tokenizer=tokenizer_name
 )

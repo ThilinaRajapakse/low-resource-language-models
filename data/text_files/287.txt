@@ -1,0 +1,4 @@
+Databasi Thithitemu
+Data nĩ umo. Knowledge nĩ űgĩ. fact ĩtagwo ?
+Database noĩtwo umobasi kana databasi, Knowledge base ĩtwo űgibasi. Dataware House itwo nyumba ya umowea. Umobasi(databasi) ĩtűmagĩrwo kű manĩnjĩ umo.
+Databasi ikoragũo thokoni. MS SQL server, MySQL, DB2, Oracle.

@@ -1,0 +1,3 @@
+Linus Torvalds.
+Mūndū wi ngumo ni guthondeka operating system (ndwari thithitemu) ya Linux. Riu akoragwo arūgamirire kwandikwo kwa Kernel ya Linux. Nĩ wa kuma bururi wa Finland.
+Kernel no ĩtwo na Gĩkūyū ngorono (ngoro nore).
